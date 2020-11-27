@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105985719258",
+    "firebase_url": "https://push-gh.firebaseio.com",
+    "project_id": "push-gh",
+    "storage_bucket": "push-gh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105985719258:android:206aa0f925c892fb095ee3",
+        "android_client_info": {
+          "package_name": "com.demo.pushgh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105985719258-gladeha4lmvar45rk9pq4q0ringd8f0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVIixx3MuNsyKFAHl24Bm0uhsMuFv6-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105985719258-gladeha4lmvar45rk9pq4q0ringd8f0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
